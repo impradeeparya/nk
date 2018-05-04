@@ -1,4 +1,4 @@
-package factorial;
+package fibonacci;
 
 public class BottomUpFibonacci {
 
